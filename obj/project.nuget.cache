@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/In7C7JA7g6r/Cmc+Spb3tKLuBSfTnZHLC7wxRpQTGO1lSgQ04evmnnBBV6QqY5PaXx5bLSe50nn8b2/vvjWw==",
+  "success": true,
+  "projectFilePath": "/media/hdd/code/reg-log/reg-log.csproj",
+  "expectedPackageFiles": [
+    "/home/desktop/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
