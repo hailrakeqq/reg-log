@@ -4,7 +4,7 @@ namespace reg_log.Models
     using System.Data.Entity;
     public class UserContext : DbContext
     {
-        public UserContext() : base(@"Server=localhost;Database=mydatabase1;User=sa;Password=Patron1337;")
+        public UserContext() : base(@"Server={host};Database={database name};User={user name};Password={password};")
         {
         }
 
